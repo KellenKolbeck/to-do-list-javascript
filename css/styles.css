@@ -1,16 +1,8 @@
-#show-places {
-  display:none;
-}
-
-#place-info {
-  display:none;
-}
-
-.place {
+#to-do-tasks {
   cursor:pointer;
   color:#0088cc;
 }
 
-.place:hover {
+#to-do-tasks:hover {
   text-decoration:underline;
 }
