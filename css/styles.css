@@ -1,0 +1,16 @@
+#show-places {
+  display:none;
+}
+
+#place-info {
+  display:none;
+}
+
+.place {
+  cursor:pointer;
+  color:#0088cc;
+}
+
+.place:hover {
+  text-decoration:underline;
+}
